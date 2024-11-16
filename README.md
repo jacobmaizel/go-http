@@ -4,10 +4,6 @@
 
 ---
 
-- [ ] [Message Syntax and Routing](https://datatracker.ietf.org/doc/html/rfc7230)
-- [ ] [Semantics and Content](https://datatracker.ietf.org/doc/html/rfc7231)
-- [ ] [Conditional Requests](https://datatracker.ietf.org/doc/html/rfc7232)
-- [ ] [Range Requests](https://datatracker.ietf.org/doc/html/rfc7233)
-- [ ] [Caching](https://datatracker.ietf.org/doc/html/rfc7234)
-- [ ] [Authentication](https://datatracker.ietf.org/doc/html/rfc7235)
-- [ ] [Optional: Cookies](https://datatracker.ietf.org/doc/html/rfc6265)
+
+- [ ] [RFC9110](https://datatracker.ietf.org/doc/html/rfc9110)
+- [ ] [RFC9112](https://datatracker.ietf.org/doc/html/rfc9112)
