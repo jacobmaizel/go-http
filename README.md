@@ -1,21 +1,13 @@
 # An HTTP1.1 Implementation in Go
 
-## https://datatracker.ietf.org/doc/html/rfc2616#section-1.2
+### https://en.wikipedia.org/wiki/HTTP
 
+---
 
-- [ ] Basic Request Parsing
-    - [ ] Parse request line (method, resource..)
-    - [ ] Parse Headers into structure
-    - [ ] 
-- [ ] Next step Request handling
-- [ ] Proper handling of connection lifecycle headers (Connection: keep-alive / close)
-- [ ] Handle Message Body
-    - [ ] Requests with/without bodies
-    - [ ] Content-Length and Transfer-Encoding: chunked handling
-
-- [ ] Error Handling (error status codes)
-- [ ] Support other main HTTP Methods (POST, DELETE etc)
-- [ ] 
-
-
-
+- [ ] [Message Syntax and Routing](https://datatracker.ietf.org/doc/html/rfc7230)
+- [ ] [Semantics and Content](https://datatracker.ietf.org/doc/html/rfc7231)
+- [ ] [Conditional Requests](https://datatracker.ietf.org/doc/html/rfc7232)
+- [ ] [Range Requests](https://datatracker.ietf.org/doc/html/rfc7233)
+- [ ] [Caching](https://datatracker.ietf.org/doc/html/rfc7234)
+- [ ] [Authentication](https://datatracker.ietf.org/doc/html/rfc7235)
+- [ ] [Optional: Cookies](https://datatracker.ietf.org/doc/html/rfc6265)
